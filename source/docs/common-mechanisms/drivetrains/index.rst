@@ -64,7 +64,8 @@ Drivetrain Options
 
 .. toctree::
    :maxdepth: 2
-
+   
    tank
    holonomic
+   advanced
    drivetrain-gallery
